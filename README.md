@@ -11,7 +11,7 @@ Welcome to my personal portfolio! I'm a Junior Data Scientist with expertise in 
 - Machine Learning: RandomForestClassifier, XGBoost
 
 ## Contact
-- Email: your.email@example.com
+- Email: azion2342@ukr.net
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/oleksandr-kyrychuk/)
 - GitHub: [Oleksandr-Kyrychuk](https://github.com/Oleksandr-Kyrychuk)
  
