@@ -12,7 +12,7 @@ Welcome to my personal portfolio! I'm a Junior Data Scientist with expertise in 
 
 ## Contact
 - Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/oleksandr-kyrychuk/)
 - GitHub: [Oleksandr-Kyrychuk](https://github.com/Oleksandr-Kyrychuk)
  
 
