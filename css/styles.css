@@ -1,67 +1,29 @@
+/* Custom styles for the portfolio */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
+    font-family: 'Open Sans', sans-serif;
 }
 
-nav {
-    background: #333;
-    color: white;
-    padding: 1rem;
+.font-poppins {
+    font-family: 'Poppins', sans-serif;
 }
 
-nav ul {
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    margin: 0;
-    padding: 0;
+/* Ensure header stays fixed and doesn't overlap content */
+body {
+    padding-top: 80px;
 }
 
-nav ul li {
-    margin: 0 1rem;
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
 }
 
-nav ul li a {
-    color: white;
-    text-decoration: none;
+/* Placeholder for the About Me photo */
+.w-40.h-40.bg-gray-300.rounded-full {
+    background: url('../assets/placeholder.jpg') no-repeat center/cover;
 }
 
-section {
-    padding: 2rem;
-    text-align: center;
-}
-
-.project {
-    margin: 2rem 0;
-}
-
-.project-images img {
-    margin: 0.5rem;
-    border: 1px solid #ddd;
-}
-
-.btn {
-    display: inline-block;
-    padding: 0.5rem 1rem;
-    background: #007bff;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
-footer {
-    background: #333;
-    color: white;
-    text-align: center;
-    padding: 1rem;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .project-images img {
-        width: 100%;
-        max-width: 300px;
-    }
+/* Ensure images in project cards are properly scaled */
+img {
+    max-width: 100%;
+    height: auto;
 }
